@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a4e3192-0e91-4c8c-bbde-16171ec5caf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/bucles/PiramideConMetodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7a4e3192-0e91-4c8c-bbde-16171ec5caf2" name="Changes" comment="Añadida clase PiramideConMetodoo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730666655486</updated>
     </task>
+    <task id="LOCAL-00001" summary="Añadida clase PiramideConMetodoo">
+      <option name="closed" value="true" />
+      <created>1731013958592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731013958592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Añadida clase PiramideConMetodoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añadida clase PiramideConMetodoo" />
   </component>
 </project>

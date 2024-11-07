@@ -22,8 +22,8 @@ public class PiramideConMetodo {
 
         for (int i = 1; i <= numFilas ; i++) { // Bucle para las filas
 
-            System.out.print(creaLineaCaracteres(" ", numEspacios));
-            System.out.println(creaLineaCaracteres("*",numAsteriscos));
+            System.out.print(creaLineaCaracteres(" ", numEspacios)); // Llamada al metodo devuelve sting de spacios
+            System.out.println(creaLineaCaracteres("*",numAsteriscos)); //Lamada al metodo, devuuelve strig de *
             numEspacios--;  // Decrementamos una unidad para la siguiente fila
             numAsteriscos+=2;  // Incrementa dos unidades para la siguiente fila.
 
@@ -31,7 +31,7 @@ public class PiramideConMetodo {
     }
 
     /**
-     * Genera un String compuesto por la repetición de un caracter
+     * Genera un String compuesto de un caracter repetido varias veces
      * @param s Caracter con el que componer el string
      * @param largo Número de repeticiones de s en el string generado
      * @return String compuesto por largo ocurrencias del caracter s
