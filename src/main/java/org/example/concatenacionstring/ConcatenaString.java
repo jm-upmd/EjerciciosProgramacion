@@ -5,7 +5,7 @@ public class ConcatenaString {
 
     public static void main(String[] args) {
         final String TEXTO = "Hola caracola. Como estás hoy";
-        final int NUM_CONCATENACIONES = 1_000_000;
+        final int NUM_CONCATENACIONES = 50_000;
         long tiempo;
 
         // Concatenamos y medimos usando concatenación normal de Strings
