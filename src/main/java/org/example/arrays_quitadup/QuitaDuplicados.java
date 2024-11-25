@@ -24,7 +24,6 @@ public class QuitaDuplicados {
         int[] aux = Arrays.copyOf(arr,arr.length);
         // ordenamos aux
         Arrays.sort(aux);
-        //aux = {2,2,7,7,7,21,34,45,45}
         // creamos aux2 del tamaño de aux
         int[] aux2 = new int[aux.length];
         int i=0,j=0; // i contador de aux; j contador de aux2
