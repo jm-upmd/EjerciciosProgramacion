@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a4e3192-0e91-4c8c-bbde-16171ec5caf2" name="Changes" comment="Añadida clase QuitaDuplicados" />
+    <list default="true" id="7a4e3192-0e91-4c8c-bbde-16171ec5caf2" name="Changes" comment="Añadido ejercicio practicas.">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_11_2024_18_13__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_11_2024_18_13__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Añadida clase PiramideConMetodoo" />
     <MESSAGE value="Añadida clase QuitaDuplicados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añadida clase QuitaDuplicados" />
+    <MESSAGE value="Añadido ejercicio practicas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Añadido ejercicio practicas." />
   </component>
 </project>
