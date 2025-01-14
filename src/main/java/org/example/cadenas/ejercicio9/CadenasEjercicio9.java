@@ -12,9 +12,10 @@ public class CadenasEjercicio9 {
 
     static boolean esVocal(char caracter) {
         char[] vocales={'a','e','i','o','u','á','é','í','ó','ú','ü'};
+        char caracterMinus = Character.toLowerCase(caracter);
 
         for(char c: vocales){
-            if(c == Character.toLowerCase(caracter)) {
+            if(c == caracterMinus) {
                 return true;
             }
         }
